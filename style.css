@@ -1,5 +1,6 @@
 body{
     font-family: 'Roboto', sans-serif;
+    background-color: papayawhip;
   
 }
 
@@ -39,16 +40,4 @@ section{
 .projects-area h2{
 text-align: center;
 }
-.center-align{
-width: 500px;
-    
-}
-.right-align{
-width: 500px;
-}
-.left-align{
-    width: 500px;
-}
-.center-align img{
-box-sizing: border-box;
-}
+
